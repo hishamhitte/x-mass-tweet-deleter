@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# User-specific data and progress files
+progress.json
+tweets.js
+twitter-archive/
+data/
